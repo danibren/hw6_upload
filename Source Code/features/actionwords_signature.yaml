@@ -1,0 +1,98 @@
+---
+- name: typing correct URL to the browser
+  uid: 1fe59768-015f-412a-8a91-c937b813793b
+  parameters:
+  - name: URL
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user logged in
+  uid: f4eb0610-8f6a-45d8-a391-c5062f565c91
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: show the sauce demo home page
+  uid: 66b93acb-29e5-4ec6-94e9-5b5bb64702ae
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user click Login button
+  uid: 49660bd9-a7ad-42b3-8d9e-959cb2e8e31a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user input valid password
+  uid: '0965f727-0e8b-4a1f-9864-4f7369779868'
+  parameters:
+  - name: __free_text
+  - name: __datatable
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user input valid username
+  uid: 46ddc2c4-ee83-4b40-b8e0-6e6bcc516f05
+  parameters:
+  - name: __datatable
+  - name: __free_text
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user input NOT valid password
+  uid: 4235d71d-777b-4404-8e9e-0033fba329ff
+  parameters:
+  - name: __free_text
+  - name: __datatable
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user CAN'T Login
+  uid: 3544a5cc-1cfc-44fb-9d29-ccc741e7fdde
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user click a product item
+  uid: 685c7c90-d932-4125-bbce-69350141f5b5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Number in Cart's icon Increase
+  uid: 6a6ce544-96fb-403a-8e2e-82954630ad79
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user add a product to the Cart
+  uid: 4ffaec4f-fc4e-4437-9218-328b9eae32ca
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user click Cart's icon
+  uid: e8a703ab-066c-4b60-8a9a-2a5843f04f57
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user click Checkout button
+  uid: 0d91b263-ee2d-4ba9-862d-c490973e2e4c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: show checkout respond messages
+  uid: 26cb15ff-e75a-43ac-a2b8-1bd02633808a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: show page Your Information page
+  uid: 59254ba1-1db3-4c00-9d02-e61b15f47ce6
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: input First Name text
+  uid: 8e52b0f1-53d8-483b-94dc-714d21273645
+  parameters:
+  - name: __free_text
+  - name: __datatable
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: input Last Name text
+  uid: ecf0fbb9-339f-4cdd-85b8-e0c8135c96a7
+  parameters:
+  - name: __free_text
+  - name: __datatable
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: input zip/postal code
+  uid: 04efbdea-48a2-4a89-9fd2-42e9415cbac6
+  parameters:
+  - name: __free_text
+  - name: __datatable
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: click Continue button
+  uid: 24833c52-0098-4bf5-9323-9896353f1e08
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'show page Checkout: Overview'
+  uid: dd69932f-d1d3-4682-b8d3-ead0d56602ab
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Click Finish Button
+  uid: c370a0c2-e9da-40bf-b588-87fab6d15042
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
